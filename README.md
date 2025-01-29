@@ -22,13 +22,13 @@ The goal of the project was spam detection in SMS messages. I began with data an
 
 In the second I have used a pretrained BERT model from Huggingface Transformers library to resolve the problem. I have used a simple neural network with pretrained BERT model and I achieved an accuracy on the test set equal to 98 % and it is a very good result in comparison to previous models. From the experiments one can see that the both tested approaches give an overall high accuracy and similar results for the problem.
 
-# Model	                      Embeddings  	           Accuracy
+# Model	                     # Embeddings  	          # Accuracy
  BERT  	                      Bert tokenizer   	       0.98
  LinearSVC 	                  BOW                      0.98
- SGD  	                      BOW                      0.98
+ SGD  	                       BOW                      0.98
  Random Forest                BOW	                     0.98
  Logistic Regression          BOW                    	 0.97
- Gradient Boosting	          BOW	                     0.97
+ Gradient Boosting	           BOW	                     0.97
  Naive Bayes                 	BOW	                     0.95
 
 # Technologies
