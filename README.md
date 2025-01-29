@@ -33,11 +33,11 @@ In the second I have used a pretrained BERT model from Huggingface Transformers 
 
 # Technologies
 
-The project is created with:
+# The project is created with:
 Python 3.6
 libraries: pandas, numpy, scikit-learn, NLTK, imbalanced-learn, tensorflow, Hugging Face transformers.
 
-Running the project:
+# Running the project:
 To run this project use Jupyter Notebook or Google Colab.
 You can run the scripts in the terminal:
 
